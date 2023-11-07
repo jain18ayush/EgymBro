@@ -1,4 +1,4 @@
-from sklearn.neighbors import KNeighborsClassifier
+from scikit-learn.neighbors import KNeighborsClassifier
 import joblib
 import numpy as np
 import streamlit as st
